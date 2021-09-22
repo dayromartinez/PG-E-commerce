@@ -1,0 +1,5 @@
+.wishlist_contenido{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    background-color: #f8f7f7;
+}

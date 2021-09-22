@@ -1,0 +1,30 @@
+.checkList{
+    background-color: rgba(39, 38, 39, 0.97);
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    top: 30px;
+    max-height: 200px;
+    overflow:hidden;
+    overflow-y: auto;
+    font-size:20px;
+    letter-spacing:2px;
+    width: 25%;
+    height: 250px;
+    color: wheat;
+}
+.checkListLabel{
+    display: flex;
+    align-items: center;
+    margin: 1px 3px;
+}
+.checkListSpan{
+    margin: 1px 5px;
+    tab-size: 20px;
+    margin-bottom:5px;
+    line-height: 18px;
+}
+
+.radioSpan{
+    margin-bottom: -1.2em;
+}

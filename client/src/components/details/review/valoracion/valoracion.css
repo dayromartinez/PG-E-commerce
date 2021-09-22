@@ -1,0 +1,12 @@
+.radioStar{
+  display: none;
+}
+.star {
+  font-size: 28px;
+  color: grey;
+}
+.valoracion {
+  float: right;
+  margin-right: 35rem;
+
+}

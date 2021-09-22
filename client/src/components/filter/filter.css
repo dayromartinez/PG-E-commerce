@@ -1,0 +1,33 @@
+.categoryFilter{
+    position: relative;
+    display: flow-root;
+
+}
+.categoryLabel{
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.categoryInput{
+    display: none;
+}
+
+.pepe{
+    width:500px;
+    height: 500px;
+    background-color: brown;
+    position: absolute;
+    z-index: 2;
+}
+
+.categoryButton{
+    display: flexbox;
+}
+.categoryButton{
+    margin-left: 2.4em;
+}
+.cleanButton{
+    
+    margin-left: 1.5em;
+}

@@ -1,0 +1,106 @@
+.libro {
+  width: 15rem;
+  height: 24rem;
+  margin: auto;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+  background-color: rgb(233, 233, 233);
+ 
+}
+
+.producto {
+  margin-top: 1rem;
+ 
+  
+}
+.titulo {
+  font-weight: bold;
+  margin-bottom: 3rem;
+  margin-top: 0.5rem;
+  font-size: 17px;
+  height: 1rem;
+  color: #181717;
+ 
+  
+}
+.imagen {
+  width: 8rem;
+  height: 12rem;
+  margin-top: 2rem;
+ 
+}
+.autor {
+  height: 2rem;
+  color: #413e3e;
+  font-weight: bold;
+  margin-top: 1rem;
+  
+ 
+}
+.precio {
+  color: #666666;
+  font-weight: bold;
+ 
+  
+}
+.peso {
+  color: #FD9727;
+  
+}
+.vacio {
+  color: red;
+  font-weight: bold;
+  font-size: 0.9rem;
+}
+.producto_descuento {
+  position: absolute;
+  margin-left: 9.5rem;
+  background-color: rgb(17, 224, 107);
+  padding-right: 0.8rem;
+  padding-left: 0.8rem;
+  border-radius: 1.5rem;
+  color: white; 
+  margin-top: 0.3rem;
+  
+}
+.producto_descuento:hover {
+  background-color: seagreen;
+}
+.add_fav_red {
+  border: none;
+  font-size: 2rem;
+  background-color: rgb(233, 233, 233);
+  position: absolute;
+  cursor: pointer;
+  color: red;
+  margin-left: -6rem;
+  
+  
+}
+.add_fav_gris {
+  border: none;
+  font-size: 2rem;
+  background-color: rgb(233, 233, 233);
+  position: absolute;
+  cursor: pointer;
+  color: #413e3e;
+  margin-left: -6rem;
+}
+
+.eliminar_fav {
+  border: none;
+  font-size: 1.4rem;
+  margin-left: 5rem;
+  margin-top: 0.5rem;
+  background-color: rgb(233, 233, 233);
+  position: absolute;
+  cursor: pointer;
+  color: #413e3e;
+  
+}
+.eliminar_fav:hover {
+  color: red;
+}
+
+
+
